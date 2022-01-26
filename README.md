@@ -1,5 +1,7 @@
 ## About
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/22ef08a1-7868-4717-82f5-fdf486fcf280.svg?orgId=271534534505)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/php_codesniffer?orgId=271534534505)  
+
 PHP_CodeSniffer is a set of two PHP scripts; the main `phpcs` script that tokenizes PHP, JavaScript and CSS files to detect violations of a defined coding standard, and a second `phpcbf` script to automatically correct coding standard violations. PHP_CodeSniffer is an essential development tool that ensures your code remains clean and consistent.
 
 [![Build Status](https://github.com/squizlabs/PHP_CodeSniffer/workflows/Validate/badge.svg?branch=master)](https://github.com/squizlabs/PHP_CodeSniffer/actions)
